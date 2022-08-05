@@ -1,2 +1,5 @@
 # Self_Assessment_Final_Project
-This repository was used to post my self assessment for my data bootcamp final project 
+## Purpose of assignment:
+   * The purpose of this assignment was to provide a self-assessment, team-assessment, and a brief summary of my data bootcamp final project 
+
+##
